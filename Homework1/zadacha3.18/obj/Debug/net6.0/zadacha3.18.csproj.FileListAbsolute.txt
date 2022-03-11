@@ -1,0 +1,15 @@
+C:\Users\Georgi\Desktop\ConsoleApp1\zadacha3.18\bin\Debug\net6.0\zadacha3.18.exe
+C:\Users\Georgi\Desktop\ConsoleApp1\zadacha3.18\bin\Debug\net6.0\zadacha3.18.deps.json
+C:\Users\Georgi\Desktop\ConsoleApp1\zadacha3.18\bin\Debug\net6.0\zadacha3.18.runtimeconfig.json
+C:\Users\Georgi\Desktop\ConsoleApp1\zadacha3.18\bin\Debug\net6.0\zadacha3.18.dll
+C:\Users\Georgi\Desktop\ConsoleApp1\zadacha3.18\bin\Debug\net6.0\ref\zadacha3.18.dll
+C:\Users\Georgi\Desktop\ConsoleApp1\zadacha3.18\bin\Debug\net6.0\zadacha3.18.pdb
+C:\Users\Georgi\Desktop\ConsoleApp1\zadacha3.18\obj\Debug\net6.0\zadacha3.18.csproj.AssemblyReference.cache
+C:\Users\Georgi\Desktop\ConsoleApp1\zadacha3.18\obj\Debug\net6.0\zadacha3.18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi\Desktop\ConsoleApp1\zadacha3.18\obj\Debug\net6.0\zadacha3.18.AssemblyInfoInputs.cache
+C:\Users\Georgi\Desktop\ConsoleApp1\zadacha3.18\obj\Debug\net6.0\zadacha3.18.AssemblyInfo.cs
+C:\Users\Georgi\Desktop\ConsoleApp1\zadacha3.18\obj\Debug\net6.0\zadacha3.18.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\Desktop\ConsoleApp1\zadacha3.18\obj\Debug\net6.0\zadacha3.18.dll
+C:\Users\Georgi\Desktop\ConsoleApp1\zadacha3.18\obj\Debug\net6.0\ref\zadacha3.18.dll
+C:\Users\Georgi\Desktop\ConsoleApp1\zadacha3.18\obj\Debug\net6.0\zadacha3.18.pdb
+C:\Users\Georgi\Desktop\ConsoleApp1\zadacha3.18\obj\Debug\net6.0\zadacha3.18.genruntimeconfig.cache
